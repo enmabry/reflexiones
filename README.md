@@ -16,8 +16,8 @@
 
 </div>
 
-## 🗂️ Dashboard de Conocimiento
+## Dashboard de Conocimiento
 
-### 🏛️ Reflexiones Filosóficas
-* 📝 [Michel Foucault y la búsqueda del poder](./foucault_busqueda_poder.md)
+### Reflexiones Filosóficas
+* [Michel Foucault y la búsqueda del poder](./foucault_busqueda_poder.md)
 
