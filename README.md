@@ -20,4 +20,5 @@
 
 ### Reflexiones Filosóficas
 * [Michel Foucault y la búsqueda del poder](./foucault_busqueda_poder.md)
+* [Jean Baudrillard y la hiperrealidad de las redes y la IA](./baudrillard_simulacro_hiperrealidad.md)
 
